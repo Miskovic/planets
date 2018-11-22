@@ -1,4 +1,7 @@
 hello punks, how are you? 
+<<<<<<< HEAD
 We are fine, and you
 Self confidence teacher, self confidence!
 Better, better
+=======
+>>>>>>> parent of 8437f75... fine, fine
